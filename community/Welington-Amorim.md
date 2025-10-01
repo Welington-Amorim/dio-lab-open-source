@@ -10,9 +10,7 @@ Sou entusiasta de **aprendizado contínuo** e busco sempre evoluir e compartilha
 <div>
     <img align="center" alt="Java" height="50" src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg"/>
     <img align="center" alt="JavaScript" height="50" width="50" src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png"/>
-    <img align="center" alt="React" height="50" src="https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg"/>
-    <img align="center" alt="MySQL" height="50" width="50" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg"/>
-</div>
+    </div>
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/welington-amorim)  
